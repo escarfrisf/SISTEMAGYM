@@ -1,0 +1,27 @@
+<link rel="stylesheet"
+	href="http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+	type="text/css">
+
+<!-- 	<link rel="stylesheet" href="resources/css/ayuda.css"> -->
+<link rel="stylesheet" href="resources/css/bootstrap.min.css">
+<link rel="stylesheet" href="resources/css/style.css">
+
+
+<!-- <link rel="stylesheet" href="resources/css/menu.css"> -->
+<!-- <link rel="stylesheet" href="resources/bootstrap-datetimepicker-master/css/bootstrap-datetimepicker.css"> -->
+<!-- <link rel="stylesheet" href="resources/bootstrap-datetimepicker-master/css/bootstrap-datetimepicker.min.css"> -->
+
+
+
+<script src="resources/js/jquery.js"></script>
+
+<script src="resources/js/jquery.min.js"></script>
+
+	<script src="resources/js/jquery-3.1.1.min.js"></script>
+
+<!-- <script src="resources/js/ayuda1.js"></script> -->
+	<script src="resources/js/bootstrap.min.js"></script>
+		
+<!-- 	<script src="resources/bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.js"></script> -->
+<!-- 	<script src="resources/bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.min.js"></script> -->
+<!-- 	<script src="resources/js/moment.js"></script> -->

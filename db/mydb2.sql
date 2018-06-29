@@ -1,0 +1,1 @@
+INSERT  INTO cliente(nombrec,apellidosc,dnic,telefono,gmail,idmatricula,tipocliente_idtipocliente) values("nombres","apellidos","dnic","gmail","343",0, 1)
